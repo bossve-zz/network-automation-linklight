@@ -38,3 +38,4 @@ Do you like Slack?  So do we! [click to join our ansiblenetwork slack](https://j
 
 ---
 ![Red Hat Ansible Automation](images/rh-ansible-automation.png)
+# network-automation-linklight
